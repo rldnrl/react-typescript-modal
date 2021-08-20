@@ -4,8 +4,8 @@ import { css, cx } from '@emotion/css'
 type Props = {
   message?: string;
   closingButtonText?: string;
-  onClose?: () => void
   handleButtonText?: string;
+  onClose?: () => void
   onHandle?: () => void;
 }
 
