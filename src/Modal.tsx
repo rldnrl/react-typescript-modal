@@ -68,8 +68,8 @@ const modalStyle = css`
 `
 
 const modalContentsStyle = css`
-  width: "288px";
-  height: "168px";
+  width: 288px;
+  height: 168px;
   padding: 1.5rem;
   background-color: #ffffff;
   position: relative;
